@@ -1,0 +1,3 @@
+﻿  dizi_odev_3.cpp
+C:\Users\mehmet\source\repos\dizi_odev_3\dizi_odev_3.cpp(23,13): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  dizi_odev_3.vcxproj -> C:\Users\mehmet\source\repos\dizi_odev_3\x64\Debug\dizi_odev_3.exe
